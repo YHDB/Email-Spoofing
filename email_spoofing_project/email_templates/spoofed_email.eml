@@ -1,0 +1,11 @@
+From: spoofed@u-pec.fr
+To: test@example.com
+Subject: Please verify your email
+Content-Type: text/html
+
+<html>
+  <body>
+    <h2>UPEC Account Verification</h2>
+    <p>Click <a href="http://localhost:8000/fake_login.html">here</a> to verify your email.</p>
+  </body>
+</html>
