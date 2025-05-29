@@ -134,17 +134,7 @@ php -S localhost:8000
 
 ---
 
-## ✅ Étape 7 – requirements.txt
-
-Contenu :
-
-```
-# Aucun package nécessaire
-```
-
----
-
-## 🧪 Étape 8 – Bonnes pratiques & éthique
+## 🧪 Étape 7 – Bonnes pratiques & éthique
 
 - Ne jamais utiliser ce projet en dehors d’un cadre privé ou académique
 - Ne jamais viser une vraie adresse institutionnelle
